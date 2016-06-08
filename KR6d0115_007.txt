@@ -6,7 +6,7 @@
 #+PROPERTY: SOURCE 卍 Xuzangjing Vol. 35, No. 652
 #+PROPERTY: VOL 35
 #+PROPERTY: BASEEDITION X
-#+PROPERTY: WITNESS master
+#+PROPERTY: WITNESS X
 #+PROPERTY: LASTPB <pb:KR6d0115_X_007-0294b> ¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 7
 ¶
@@ -287,7 +287,7 @@
 <pb:KR6d0115_X_007-0297c>¶
 修行。只為未知真實功德。所以不悟初祖之言。後¶
 來聞法道大著。深悔之。及祖示滅後。又聞魏使於¶
-蔥嶺上遇祖。手攜隻履而返。益加追慕。乃御製碑¶
+蔥嶺上遇祖。手攜隻履而返。益加追慕。乃御製[石*((白-日+田)/廾)]¶
 文記之。有云。嗟夫。見之不見。逢之不逢。今之古之。¶
 悔之恨之。朕雖一介凡夫。敢師之於後。又為作贊。¶
 有心有也。曠劫而受沉淪。心無也。剎那而成正覺¶
